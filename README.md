@@ -2,7 +2,7 @@
 ## Achievement-2---Studly caps (SpongeBob case)
 
 - author: Jian Villanueva
-- github pages link:
+- github pages link:https://jiansk.github.io/cpnt-262-achievement2/
 
 ## Attributions:
 - website-https://www.freecodecamp.org/news/how-to-capitalize-the-first-letter-of-a-string-in-javascript/
